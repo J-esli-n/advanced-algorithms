@@ -1,4 +1,4 @@
-# Advance Algorithms
+# Advanced Algorithms
 
 A growing collection of algorithm implementations written in Python, with examples and notes on how to run them.
 
